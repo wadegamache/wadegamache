@@ -9,9 +9,9 @@
 <h2>My Skills and Technologies:</h2>
 
 - <b>Microsoft Azure</b>
-  - Sentinal (SIEM), Microsoft Entra ID, Defender for Cloud, Log Analytics Workspaces, KQL, Firewall Rules
-- <b>Azure/Cloud Cybersecurity Projects </b>
-- <b>Azure/Cloud Cybersecurity Projects </b>
+  - Sentinal (SIEM), Microsoft Entra ID, Defender for Cloud, Log Analytics Workspaces, KQL, Network Security Groups, Firewall Rules
+- <b>Splunk (SIEM), Suricata, Wireshark, tcpdump, SQL, Linux, Python </b>
+- <b>NIST 800-53, NIST 800-61, NIST 800-37 </b>
   
 <h2>My Story:</h2>
 
