@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>Azure/Cloud Cybersecurity Projects </b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/wadegamache/Azure-SOC-Honeynet)
 
 
 <h2> 🤳 Connect with me:</h2>
