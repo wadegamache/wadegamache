@@ -4,6 +4,8 @@
 
 - <b>Azure/Cloud Cybersecurity Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/wadegamache/Azure-SOC-Honeynet)
+  - [Incident Response Remediation (in progress)](https://)
+  - [Querying with KQL and Custom Firewall Rules (in progress).](https://) 
 
 
 <h2> 🤳 Connect with me:</h2>
