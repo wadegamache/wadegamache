@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>[Creating a Live SOC/Honeynet in Azure](https://github.com/wadegamache/Azure-SOC-Honeynet)</b>
-- <b>[Phishing Email Analysis](https://)</b>
+- <b>[Phishing Email Analysis](https://github.com/wadegamache/Phishing-Email-Analysis)</b>
 <!-- [Incident Response Remediation](https://)-->
 <!-- [Querying with KQL and Custom Firewall Rules](https://)-->
 <h2>My Skills and Technologies:</h2>
