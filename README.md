@@ -5,7 +5,6 @@
 - <b>[Creating a Live SOC/Honeynet in Azure](https://github.com/wadegamache/Azure-SOC-Honeynet)</b>
 - <b>[Phishing Email Analysis](https://github.com/wadegamache/Phishing-Email-Analysis)</b>
 - <b>[Incident Response Remediation](https://github.com/wadegamache/Incident-Response-Remediation)</b>
-- <b>[Querying with KQL](https://github.com/wadegamache/Querying-with-KQL)</b>
 
 <h2>My Skills and Technologies:</h2>
 
