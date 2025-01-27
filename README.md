@@ -15,7 +15,11 @@
   
 <h2>My Story:</h2>
 
-- <b>With over 10 years of leadership and managerial experience, I am a passionate and detail-oriented professional transitioning from the Hospitality industry to IT and Cybersecurity. I am seeking a better work/life balance with a more traditional schedule. My existing skill set easily traverses industries, including operations management, process optimization, and problem-solving. I have supplemented this with industry-specific education, certifications and projects. These include the Google Cybersecurity Professionals Certificate, CompTIA Security+ Certification, and a Leveled Cybersecurity Masterclass Certificate. With my experience as an Executive Chef in NYC, I thrive in fast-paced, high-pressure environments and excel at quickly identifying and addressing challenges with creative solutions. My ability to learn and educate myself in the workplace is one of my strongest attributes. Above all, my love for technology, endless curiosity, and desire for continual growth make me a perfect fit for those interested in a driven professional with a proven track record for success. </b>
+<b>I am a dedicated and results-driven professional currently pursuing a Master’s degree in Cybersecurity and Information Assurance (expected graduation: May ‘25). My academic journey builds on my existing cybersecurity certifications, practical education, and a successful career as an NYC executive chef. My hospitality background provided me with valuable skills in operations management, process optimization, and problem-solving, which seamlessly complement my cybersecurity ambitions.
+
+Through my role as a Cyber Security Support Technician and educational experience, I have gained expertise in safeguarding digital infrastructures, risk management, incident response, penetration testing, and regulatory compliance. I have hands-on experience with industry-leading tools and platforms, including SIEM systems, Microsoft Azure, and cloud security solutions. Upon graduation, I will hold certifications such as CompTIA PenTest+, CompTIA CASP+, and CISM, alongside my existing credentials.
+
+With a passion for technology, an eagerness to learn, and a proven ability to adapt and excel, I am committed to ongoing professional development. I seek an opportunity to contribute to an organization that values a self-starter with a track record of success, a love for innovation, and a relentless drive to deliver impactful results.</b>
 
 
 <h2> 🤳 Connect with me:</h2>
